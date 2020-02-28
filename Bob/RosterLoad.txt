@@ -1,0 +1,71 @@
+# School [School Code|School Name|Coach F-Name|Coach L-Name|AD F-Name|AD L-Name]
+WSHS|Worcester South High School|Glenn|Clauss|Bret|Zane
+WDHS|Worcester Dorehty High School|Ellsworth|Quackenbush|Bert|Coco
+WBCHS|Worcester Burncoat High School|Gail|Cain|Kevin|Kane
+QRHS|Quabbin Regional High School|Bob|Desilets|Seth|Desilets
+GHS|Gardner High School|Jack|Smith|George|Fanning
+NBHS|North Brookfield High School|Hughe|Fitch|Richard|Carey
+WHS|Winchendon High School|Bill|Nice|Sam|Adams
+AUBHS|Auburn High School|Katie|Right|Alice|Wonderland
+OXHS|Oxford High School|Mary|Cousin|Frank|Daughter
+# Roster [Bib #|School Code|Runner's F-Name|Runner's L-Name]
+101|WSHS|Sanora|Hibshman
+102|WSHS|Bridgette|Moffitt
+103|WSHS|Karine|Chunn
+104|WSHS|Shanita|Wind
+105|WSHS|Fernanda|Parsell
+106|WSHS|Albertha|Baringer
+107|WSHS|Carlee|Sowards
+108|WDHS|Maisha|Kleis
+109|WDHS|Lezlie|Berson
+110|WDHS|Deane|Rocheleau
+111|WDHS|Hang|Hodapp
+112|WDHS|Zola|Dorrough
+113|WDHS|Shalon|Mcmonigle
+114|WBCHS|Valentine|Vant
+115|WBCHS|Renate|Deforge
+116|WBCHS|Yung|Corner
+117|WBCHS|Eleanore|Younkin
+118|WBCHS|Alexia|Fandel
+119|WBCHS|Aleida|Silman
+120|WBCHS|My|Dobyns
+121|QRHS|Kelley|Barela
+122|QRHS|Tatyana|Thornley
+123|QRHS|Diedre|Hake
+124|QRHS|Krysta|Sweet
+125|QRHS|Sheri|Wahlgren
+126|QRHS|Brittney|Tovey
+127|QRHS|Tuyet|Manfre
+128|GHS|Jayna|Laurent
+129|GHS|Anastasia|Noles
+130|GHS|Rhiannon|Estrello
+131|GHS|Katy|Dent
+132|GHS|Jolynn|Salone
+133|GHS|Johnie|Rasmus
+134|GHS|Tashia|Schlick
+135|NBHS|Octavia|Gildea
+136|NBHS|Charlene|Heredia
+137|NBHS|Reina|Tatem
+138|NBHS|Dong|Factor
+139|NBHS|Jeniffer|Bichrest
+140|WHS|Charlotte|Clutter
+141|WHS|Alaine|Chowning
+142|WHS|Audie|Couse
+143|WHS|Madelaine|Lightbody
+144|WHS|Nery|Shawl
+145|WHS|Milda|Auxier
+146|WHS|Beatriz|Embury
+147|AUBHS|Shanda|Walquist
+148|AUBHS|Felipa|Gillen
+149|AUBHS|Kena|Launer
+150|AUBHS|Tatum|Hoppe
+151|AUBHS|Lura|Mccants
+152|AUBHS|Racquel|Spengler
+153|AUBHS|Lizbeth|Grauberger
+154|OXHS|Teena|Cogliano
+155|OXHS|Lorilee|Nelsen
+156|OXHS|Lasandra|Clauson
+157|OXHS|Kirstie|Soluri
+158|OXHS|Noriko|Bones
+159|OXHS|Sherika|Gordan
+160|OXHS|Cherry|Robotham

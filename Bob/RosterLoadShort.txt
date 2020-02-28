@@ -1,0 +1,24 @@
+# School [School Code|School Name|Coach F-Name|Coach L-Name|AD F-Name|AD L-Name]
+WSHS|Worcester South High School|Glenn|Clauss|Bret|Zane
+WDHS|Worcester Dorehty High School|Ellsworth|Quackenbush|Bert|Coco
+WBCHS|Worcester Burncoat High School|Gail|Cain|Kevin|Kane
+QRHS|Quabbin Regional High School|Bob|Desilets|Seth|Desilets
+GHS|Gardner High School|Jack|Smith|George|Fanning
+NBHS|North Brookfield High School|Hughe|Fitch|Richard|Carey
+WHS|Winchendon High School|Bill|Nice|Sam|Adams
+AUBHS|Auburn High School|Katie|Right|Alice|Wonderland
+OXHS|Oxford High School|Mary|Cousin|Frank|Daughter
+# Roster [Bib #|School Code|Runner's F-Name|Runner's L-Name]
+101|WSHS|Sanora|Hibshman
+102|WSHS|Bridgette|Moffitt
+103|WSHS|Karine|Chunn
+104|WSHS|Shanita|Wind
+105|WSHS|Fernanda|Parsell
+106|WSHS|Albertha|Baringer
+107|WSHS|Carlee|Sowards
+108|WDHS|Maisha|Kleis
+109|WDHS|Lezlie|Berson
+110|WDHS|Deane|Rocheleau
+111|WDHS|Hang|Hodapp
+112|WDHS|Zola|Dorrough
+113|WDHS|Shalon|Mcmonigle
